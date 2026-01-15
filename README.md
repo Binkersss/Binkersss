@@ -1,9 +1,4 @@
----
-title: Binkersss
-date: 01-15-2026
----
-
-## Hi there 👋
+# Hello there
 
 If you're here to learn more about me feel free to look around my repositories.
 
