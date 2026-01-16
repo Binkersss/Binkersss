@@ -7,9 +7,8 @@ I am currently migrating my active development onto
 between Github and Codeberg, but that is subject to change.
 
 Reach me via email: [nathaniel@chappelle.dev](mailto:nathaniel@chappelle.dev)
-(OMEMO Supported)
 
-Reach me via XMPP: [binkd@xmpp.is](xmpp:binkd@xmpp.is)
+Reach me via XMPP: [binkd@xmpp.is](xmpp:binkd@xmpp.is) (OMEMO Supported)
 
 Reach me via [Simplex](https://simplex.chat/):
 ![Simplex QR Code](assets/simplexQR.jpeg)
