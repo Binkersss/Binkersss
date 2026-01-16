@@ -6,7 +6,10 @@ I am currently migrating my active development onto
 [Codeberg](https://codeberg.org/binkd). For now code changes will be synced
 between Github and Codeberg, but that is subject to change.
 
-Reach me via email: <nathaniel@chappelle.dev>
+Reach me via email: [nathaniel@chappelle.dev](mailto:nathaniel@chappelle.dev)
+(OMEMO Supported)
+
+Reach me via XMPP: [binkd@xmpp.is](xmpp:binkd@xmpp.is)
 
 Reach me via [Simplex](https://simplex.chat/):
 ![Simplex QR Code](assets/simplexQR.jpeg)
