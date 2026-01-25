@@ -3,8 +3,9 @@
 If you're here to learn more about me feel free to look around my repositories.
 
 I am currently migrating my active development onto
-[Codeberg](https://codeberg.org/binkd). For now code changes will be synced
-between Github and Codeberg, but that is subject to change.
+[Codeberg](https://codeberg.org/binkd) and therefore new projects (like
+[stamail](https://codeberg.org/binkd/stamail)) will be tracked there. Existing
+projects will be mirrored on a best-effort basis.
 
 Reach me via email: [nathaniel@chappelle.dev](mailto:nathaniel@chappelle.dev)
 
